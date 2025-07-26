@@ -1,4 +1,4 @@
-## Hi I'm Chloe 👋
+## Hi I'm Chloe Harty 👋
 
 A dedicated and results-oriented Software Engineering student at the University of Victoria, I'm passionate about problem-solving and user-centric design. I'm actively building a strong foundation in programming and software development, with a focus on practical application.<br>
 Beyond my coursework, I'm deeply involved in the engineering community. As Co-Chair of the IEEE Victoria Student Branch, I've championed a three-part tech talk series, fostering connections between students and industry professionals. My collaboration on the WEST X FortisBC project further highlights my ability to work on a technical team, where I contributed to a process control narrative and implemented ladder logic in C for a gas compressor.<br>
